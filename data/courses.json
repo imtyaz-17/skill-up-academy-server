@@ -1,0 +1,195 @@
+[
+    {
+        "id": "1",
+        "name": "Web Development",
+        "img": "https://i.ibb.co/yFZrr43/web-development.jpg",
+        "tag": "Web Developer",
+		"category_id": "01",
+        "price": 200,
+        "instructor": {
+            "instname": "Nicole Brown",
+            "instImg": "https://i.ibb.co/PrBJkmV/Nicole-Brown.jpg"
+        },
+        "description": "This course is quite comprehensive when compared with other courses available on this platform that is why I bought it. It is packed full with amazing content and like the description, it did make me web developer. The instructor is a very good teacher using visual aids (not just talking) and simple illustrations to drive home a point. This course does not teach everything but the basics of everything frontend and backend. I enjoyed the course, the jokes, the projects, challenges.",
+        "curriculum": [
+            "Introduction to HTML & Css",
+            "Intermediate HTML & Css",
+            "JavaScript",
+            "React.js",
+            "Node.js"
+        ],
+		"certificate":"Add this credential to your LinkedIn profile, resume, or CV Share it on social media and in your performance review",
+        "enrolled": 32,
+        "lectures": 12,
+        "duration": "20 hours",
+        "level": "Beginner",
+		"language": "Bangla",
+        "ratings": 5
+    },
+    {
+        "id": "2",
+        "name": "Graphics Design",
+		"category_id": "02",
+        "img": "https://i.ibb.co/F7Br29X/Graphic-design.png",
+        "tag": "Graphic Design",
+        "price": 250,
+        "instructor": {
+            "instname": "Annette Knight",
+            "instImg": "https://i.ibb.co/XSb2pqf/Annette-Knight.jpg"
+        },
+        "description": "The future of design is digital. This course was designed to get graphic designers up to speed on the latest and greatest digitally focused projects so they can expand their skill set and offer more services. This course is massive covering so many Design projects from social media, icon design, logo design, sketching, banner design, web design and more.",
+        "curriculum": [
+            "Design Principles",
+            "Color Theory",
+            "Typography",
+            "Adobe Illustrator & Photoshop",
+            "Logo Design",
+            "GIF Animation",
+            "Social Media Design"
+        ],
+		"certificate":"Add this credential to your LinkedIn profile, resume, or CV Share it on social media and in your performance review",
+        "enrolled": 50,
+        "lectures": 20,
+        "duration": "30 hours",
+        "level": "Beginner",
+		"language": "English",
+        "ratings": 5
+    },
+    {
+        "id": "3",
+        "name": "App Development",
+        "img": "https://i.ibb.co/pwV7bS3/Android-App-Development.png",
+        "tag": "App Development",
+		"category_id": "03",
+        "price": 300,
+        "instructor": {
+            "instname": "Jenis R",
+            "instImg": "https://i.ibb.co/B2B71JJ/Jenis-R.jpg"
+        },
+        "description": "Mobile is seen in everyone's hand now. Most of which are smartphones now. Indeed, the world has become smaller and closer to the palm of your hand. People now spend most of their time behind smartphones. And everyone big and small are using essential apps like - Pathao Food, Uber Ride, Facebook, YouTube, Netflix etc. and many more. - Mobile app development industry is the most profitable industry nowadays. The future is bright for those who want to take up app development as their career as well as a great field for those who want to pursue it as a hobby. Because a passive income can be easily generated from mobile apps. From which it is possible to make an additional income in addition to your main salary or income.",
+        "curriculum": [
+            "Java Programing Basic",
+            "Android User Interface",
+            "List and Adapters",
+            "SQLite Database",
+            "Firebase Database",
+            "API",
+            "Flashlight App",
+            "Wallpaper App"
+        ],
+		"certificate":"Add this credential to your LinkedIn profile, resume, or CV Share it on social media and in your performance review",
+        "enrolled": 10,
+        "lectures": 25,
+        "duration": "15 hours",
+        "level": "Beginner",
+		"language": "English",
+        "ratings": 5
+    },
+    {
+        "id": "4",
+        "name": "WordPress pro",
+        "img": "https://i.ibb.co/FhyK6Ww/Word-Press.jpg",
+        "tag": "WordPress",
+		"category_id": "01",
+        "price": 150,
+        "instructor": {
+            "instname": "Jenny Brown",
+            "instImg": "https://i.ibb.co/NpZYGqB/Jenny-Brown.jpg"
+        },
+        "description": "Crocoblock is a revolutionary plugin company for WordPress that has ushered in a new chapter for WordPress today. There was a time when we were building websites on WordPress when there were not so many themes or plugins available. To create a website, you had to develop the theme yourself. Nowadays, the need to develop themes by heavy coding has been reduced to a great extent due to the many theme plugins. If you know the working of all these modules well, it is possible to create a website with custom theme and functionality without coding and your clients will be impressed with your work. NFT is another popular and top trending topic of the current era. The use of NFT is increasing day by day all over the world and people are investing in electronic currency or cryptocurrency. This course shows how you can create an NFT Marketplace with WordPress through a live project. InshaAllah you can do something good in your WordPress career by learning trending things by keeping yourself updated with time.",
+        "curriculum": [
+            "Jet Elements",
+            "Jet Woo Builder",
+            "Jet Compare & Wishlist",
+            "Jet Engine",
+            "NFT Websites"
+        ],
+		"certificate":"Add this credential to your LinkedIn profile, resume, or CV Share it on social media and in your performance review",
+        "enrolled": 15,
+        "lectures": 27,
+        "duration": "25 hours",
+        "level": "Beginner",
+		"language": "Bangla",
+        "ratings": 5
+    },
+    {
+        "id": "5",
+        "name": "Master of Data Entry",
+        "img": "https://i.ibb.co/SRLDh4j/Data-Entry.jpg",
+        "tag": "Data Entry",
+		"category_id": "04",
+        "price": 100,
+        "instructor": {
+            "instname": "Irene Hanson",
+            "instImg": "https://i.ibb.co/482M2Xk/Irene-Hanson.jpg"
+        },
+        "description": "Do you want to see yourself as a skilled freelancer in no time? But not sure which skill is perfect for you? Most of the people in our country take 3 months computer training as a student. And ran after the golden deer called Job. But many people don't know that it is possible to use that basic training to freelancing and earn several times the job salary. I have shown some tasks of MS Word, MS Excel, Internet Search, Lead Generation in this course which you can learn and earn lifetime income by freelancing. And students, unemployed, employed all can earn regular good income at their convenience.",
+        "curriculum": [
+            "Learn Data Entry Based on Marketplace",
+            "Mail Merge / Mailing Label",
+            "Data Scraping Using Tools",
+            "Web Research",
+            "Data Entry With Mobile",
+            "About Fiverr MarketPlace"
+        ],
+		"certificate":"Add this credential to your LinkedIn profile, resume, or CV Share it on social media and in your performance review",
+        "enrolled": 100,
+        "lectures": 30,
+        "duration": "40 hours",
+        "level": "Beginner",
+		"language": "English",
+        "ratings": 5
+    },
+    {
+        "id": "6",
+        "name": "SEO Course",
+        "img": "https://i.ibb.co/BLq1j8n/SEO-Course.jpg",
+        "tag": "SEO",
+		"category_id": "05",
+        "price": 150,
+        "instructor": {
+            "instname": "Stephen Stewart",
+            "instImg": "https://i.ibb.co/R9482ND/Stephen-Stewart.jpg"
+        },
+        "description": "Search Engine Optimization - A Complete Course in Bangla! Get everything here What Is SEO, Important Factors Of SEO, Types Of SEO, Keyword Research, Steps to do, Organize KW Report, On-Page SEO, Technical SEO, OFF Page SEO, SEO Audit, Analytics, Local SEO etc. many more, InshaaAllah will add fiverr gigs in future!",
+        "curriculum": [
+            "Basics Of SEO",
+            "SEO - Keyword Research",
+            "On-Page SEO",
+            "Technical SEO (What is it and its Importance in Google Ranking)",
+            "SEO Audit, Analytics & Others"
+        ],
+		"certificate":"Add this credential to your LinkedIn profile, resume, or CV Share it on social media and in your performance review",
+        "enrolled": 35,
+        "lectures": 25,
+        "duration": "20 hours",
+        "level": "Beginner",
+		"language": "Bangla",
+        "ratings": 3
+    },
+    {
+        "id": "7",
+        "name": "IELTS",
+        "img": "https://www.topuplearning.com/wp-content/uploads/2021/07/IELTS-FEATURED-IMAGE.png",
+        "tag": "IELTS",
+		"category_id": "06",
+        "price": 150,
+        "instructor": {
+            "instname": "Stephen Stewart",
+            "instImg": "https://i.ibb.co/R9482ND/Stephen-Stewart.jpg"
+        },
+        "description": "If you wish to study, live, or work in an English-speaking country, you'll need to take IELTS. Almost every program offered by universities would accept a score of 7 or higher. A good IELTS score can also help you get more points on the points exam and apply for different visas. If you would like to purchase this course, click the button below.",
+        "curriculum": [
+            "Basics Of IELTS",
+            "IELTS - Planning",
+            "Book List"
+        ],
+		"certificate": "Add this credential to your LinkedIn profile, resume, or CV Share it on social media and in your performance review",
+        "enrolled": 25,
+        "lectures": 20,
+        "duration": "20 hours",
+        "level": "Beginner",
+		"language": "English",
+        "ratings": 3
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "id": "01",
+        "name": "Web Development"
+    },
+    {
+        "id": "02",
+        "name": "UI/UX Design"
+    },
+    {
+        "id": "03",
+        "name": "App Development"
+    },
+    {
+        "id": "04",
+        "name": "Data Science"
+    },
+    {
+        "id": "05",
+        "name": "SEO"
+    },
+    {
+        "id": "06",
+        "name": "IELTS"
+    },
+    {
+        "id": "00",
+        "name": "ALL COURSE"
+    }
+]
