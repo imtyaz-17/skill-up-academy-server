@@ -18,7 +18,7 @@ app.get('/category/:id', (req, res) => {
     if (id === '00') {
         res.send(courses);
     } else {
-        const categoryCourses  = courses.filter(cs => cs.category_id === id);
+        const categoryCourses = courses.filter(cs => cs.category_id === id);
         res.send(categoryCourses);
     }
 
@@ -29,9 +29,9 @@ app.get('/courses', (req, res) => {
 })
 app.get('/course/:id', (req, res) => {
     const id = req.params.id;
-    const selectedCourse  = courses.find(course => course.id === id);
-    res.send(selectedCourse );
+    const selectedCourse = courses.find(course => course.id === id);
+    res.send(selectedCourse);
 })
 app.listen(port, () => {
-    console.log(`news app listening on port ${port}`)
+    console.log(`Skill Up Academy app listening on port ${port}`)
 })
